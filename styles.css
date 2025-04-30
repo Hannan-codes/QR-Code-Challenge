@@ -4,6 +4,8 @@ body{
     margin-right: auto;
     text-align: center;
     font-family:outfit;
+    height:100vh;
+    display:flex;
 }
 
 img{
